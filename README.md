@@ -1,4 +1,4 @@
-# Thinkphp3.2-sendemails
+# sendemails
 thinkphp3.2实现邮件发送功能
 ### 第一步：修改命名
     把class.phpmailer.php文件名改成Phpmailer.class.php
